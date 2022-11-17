@@ -13,7 +13,7 @@ function Bilesen({KutuNo}) {
         {sayi === 2 ? <Kutu2 /> : <Kutu1/>}
         </>
         
-        )} /* Ternary Conditioanal */
+        )} /* Ternary Conditioanal*/
 
 
 function Kutu1() {
